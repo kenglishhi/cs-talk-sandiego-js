@@ -1,0 +1,10 @@
+# one line
+characters = hobbit: 'Bilbo'
+
+
+# for multi-line
+characters =
+  slayer:   'Buffy'
+  witch:    'Willow'
+  watcher:  'Giles'
+  sidekick: 'Xander'
